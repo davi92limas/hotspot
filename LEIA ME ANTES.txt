@@ -1,0 +1,17 @@
+antes de tudo: npm install 
+starte do projeto = npm start
+
+
+Bom, eu nao consegui terminar o projeo
+mais crentei uma lista ,
+uma tela de loguin funcional,
+cadstro de um item funcional,
+bem peso desculpa.
+
+
+mais mandei oque cnsegui fazer. 
+obrigado pela atençao.
+
+contatos
+email : davi92limas@gmail.com	
+whats : 48991719895

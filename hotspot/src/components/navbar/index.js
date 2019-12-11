@@ -24,8 +24,8 @@ function Navbar(){
                     {           
                         useSelector(state => state.usuarioLogado) > 0 ?                  
                     <>                        
-                        <li className="nav-item"><Link className="nav-link" to="/hotspotcadastro">Publicar hotspot</Link></li> 
-                        <li className="nav-item"><Link className="nav-link" to="/hotspots/meus">Meus hotspots</Link></li> 
+                        <li className="nav-item"><Link className="nav-link" to="/hotspotcadastro">Criar hotspot</Link></li> 
+                        <li className="nav-item"><Link className="nav-link" to="/meushotspot">Lista hotspots</Link></li> 
                         <li className="nav-item"><Link className="nav-link" onClick={() => dispatch({type: 'LOG_OUT'})   }>Sair</Link></li> 
                     </>
                     :

@@ -25,3 +25,10 @@
     min-width: 100%;
 }
 
+.imgHome {
+    height: 100px;
+    background: url('kisspng2.png') no-repeat 25%;
+}
+.centerTex {
+    text-align: center;
+}
